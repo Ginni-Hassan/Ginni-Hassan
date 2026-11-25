@@ -9,38 +9,32 @@ Welcome to my GitHub! I'm an ICT student passionate about technology, programmin
 ### 🌱 About Me
 - 🎓 Information & Communication Technology Student.
 - 💻 Interested in Web and Software Development.
-- 🐍 Currently learning Python and Django.
-- 🚀 Building my programming skills through practical projects.
+- 🌱 Learning new programming skills.
+- 🚀 Building practical projects and improving my knowledge.
 
-### 💻 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+### 🛠️ Skills & Technologies
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,cs" />
-</p>
-
-### 🗄️ Database Management
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,django,cs,cpp,php,mysql,oracle,git,github,vscode" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-- **GitHub:** [Ginni-Hassan](https://github.com/Ginni-Hassan)
-- **Email:** ginnihassan334@gmail.com
+<p align="left">
+  <a href="https://github.com/Ginni-Hassan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/Safa Gini/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** ginnihassan334@gmail.com
 
 ---
 
 <p align="center">
-  ✨ <i>"Learning, Growing, and Building Every Day."</i> ✨
+  ✨ *Learning, Growing, and Building Every Day.* ✨
 </p>
