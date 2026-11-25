@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ginni Hassan 👋
 
-<!--
-**Ginni-Hassan/Ginni-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Student | 💻 Aspiring Developer
 
-Here are some ideas to get you started:
+I'm an ICT student passionate about technology, programming, and web development. I enjoy learning new skills and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 🎓 Information & Communication Technology Student
+- 💻 Interested in Software and Web Development
+- 🌱 Currently learning Python and Django
+- 🚀 Always learning and improving my skills
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,django,mysql,git,github,vscode" />
+</p>
+
+### 📫 Connect With Me
+
+- GitHub: [Ginni-Hassan](https://github.com/Ginni-Hassan)
+- Email: YOUR-GMAIL@gmail.com
+
+---
+
+✨ *Learning Today, Building Tomorrow!*
