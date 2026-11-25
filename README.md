@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm an ICT student passionate about technology, programmin
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,django,cs,cpp,php,oracle,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,django,cs,cpp,php,mysql,git,github,vscode" />
 </p>
 
 ---
