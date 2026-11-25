@@ -1,4 +1,4 @@
-# Hi, I'm Ginni Hassan 👋
+# Hi, I'm Safagini A. Hassan 👋
 
 🎓 ICT Student | 💻 Aspiring Developer
 
