@@ -22,9 +22,6 @@ Welcome to my GitHub! I'm an ICT student passionate about technology, programmin
 
 ### 📫 Connect With Me
 
-
-### 📫 Connect With Me
-
 - 🌐 GitHub: [Ginni-Hassan](https://github.com/Ginni-Hassan)
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/safa-gini-561290331/)
 - 📧 Email: ginnihassan334@gmail.com
