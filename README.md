@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm an ICT student passionate about technology, programmin
 ### 📫 Connect With Me
 
 - **GitHub:** [Ginni-Hassan](https://github.com/Ginni-Hassan)
-- **Email:** YOUR-GMAIL@gmail.com
+- **Email:** ginnihassan334@gmail.com
 
 ---
 
