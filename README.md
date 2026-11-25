@@ -19,7 +19,7 @@ I'm an ICT student passionate about technology, programming, and web development
 ### 📫 Connect With Me
 
 - GitHub: [Ginni-Hassan](https://github.com/Ginni-Hassan)
-- Email: YOUR-GMAIL@gmail.com
+- Email: ginnihassan334@gmail.com
 
 ---
 
