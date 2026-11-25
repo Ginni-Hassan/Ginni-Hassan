@@ -22,16 +22,13 @@ Welcome to my GitHub! I'm an ICT student passionate about technology, programmin
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Ginni-Hassan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/Safa Gini/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
-📧 **Email:** ginnihassan334@gmail.com
+### 📫 Connect With Me
+
+- 🌐 GitHub: [Ginni-Hassan](https://github.com/Ginni-Hassan)
+- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/safa-gini-561290331/)
+- 📧 Email: ginnihassan334@gmail.com
+
 
 ---
 
