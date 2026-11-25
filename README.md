@@ -12,9 +12,28 @@ I'm an ICT student passionate about technology, programming, and web development
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,django,mysql,git,github,vscode" />
+
+## 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
+
+## ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,nodejs" />
+</p>
+
+## 🗄️ Database Management
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+</p>
+
+## 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,figma" />
+</p>
+
+
 
 ### 📫 Connect With Me
 
